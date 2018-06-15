@@ -33,7 +33,7 @@ DrugsTrevorClownsFight
 DrugsTrevorClownsFightIn
 DrugsTrevorClownsFightOut
 ExplosionJosh3
-FocusIn                                   (mais foco porem buga e tem que reiniciar)
+FocusIn                                   (mais foco, usar FocusOut para voltar ao normal)
 FocusOut
 HeistCelebEnd
 HeistCelebPass
