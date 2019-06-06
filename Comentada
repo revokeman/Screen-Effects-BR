@@ -5,9 +5,9 @@ BikerFilter
 BikerFilterOut
 BikerFormation
 BikerFormationOut
-CamPushInFranklin                       (Brilho verde)
-CamPushInMichael        
-CamPushInNeutral                        (Brolho branco)
+CamPushInFranklin                       (Brilho[pisca] verde)
+CamPushInMichael                        (Brilho[pisca] azul)
+CamPushInNeutral                        (Brolho[pisca] branco)
 CamPushInTrevor
 ChopVision
 CrossLine                               (brilho vermelho)
@@ -18,7 +18,7 @@ DeathFailMichaelIn
 DeathFailMPDark
 DeathFailMPIn
 DeathFailNeutralIn                      (Piscada cinza chiado)
-DeathFailOut
+DeathFailOut                            (tela cinza "morto no rp")
 DeathFailTrevorIn
 DefaultFlash                            (interferencia)
 DMT_flight
@@ -62,8 +62,8 @@ MinigameEndFranklin
 MinigameEndMichael
 MinigameEndNeutral
 MinigameEndTrevor
-MinigameTransitionIn
-MinigameTransitionOut
+MinigameTransitionIn                    (Brilha chiado)
+MinigameTransitionOut                   (Brilha e fica chiado)
 MP_Bull_tost
 MP_Bull_tost_Out
 MP_Celeb_Lose
@@ -91,7 +91,8 @@ PennedInOut
 PeyoteEndIn
 PeyoteEndOut
 PeyoteIn
-PeyoteOut
+PeyoteOut                     (briza do esctasy)
+
 PPFilter
 PPFilterOut
 PPGreen
@@ -134,13 +135,13 @@ SwitchSceneFranklin
 SwitchSceneMichael
 SwitchSceneNeutral
 SwitchSceneTrevor
-SwitchShortFranklinIn
+SwitchShortFranklinIn                   (pisca verde)
 SwitchShortFranklinMid
-SwitchShortMichaelIn
-SwitchShortMichaelMid
-SwitchShortNeutralIn
+SwitchShortMichaelIn                     (pisca azul)
+SwitchShortMichaelMid           
+SwitchShortNeutralIn                    (pisca branco)
 SwitchShortNeutralMid
-SwitchShortTrevorIn
+SwitchShortTrevorIn                     (pisca vermelho)
 SwitchShortTrevorMid
 TinyRacerGreen
 TinyRacerGreenOut
